@@ -25,7 +25,7 @@ node mainScraper.js
 ### To download all pages from one subject
 
 ```
-node scraper.js
+node subj-scraper-pdf.js
 ```
 
-Change your link [here]()
+Change your link [here](https://github.com/owaisansarii/Sanfoundry-Scraper/blob/3a35935ce8028251d105145b3d5d030e96e9dac2/subj-scraper-pdf.js#L12)
